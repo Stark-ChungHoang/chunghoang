@@ -1,0 +1,79 @@
+.title {
+  color: violet;
+  font-size: 40px;
+}
+
+.title_1 {
+  color: violet;
+  font-size: 5rem;
+  font-weight: 100;
+}
+
+.header {
+  font-family: arial;
+  font-size: 40px;
+}
+
+.header h1 {
+  color: violet;
+}
+
+.header p {
+  background-color: violet;
+}
+
+.header p:hover {
+  background-color: yellow;
+}
+
+.btn-1, .btn-2 {
+  padding: 30px 20px;
+  background-color: orange;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.btn-2 {
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-2:hover {
+  background-color: violet;
+}
+
+.container {
+  width: 400px;
+  height: 400px;
+  background-color: green;
+}
+
+.heading-1 {
+  font-size: 2rem;
+}
+
+.heading-2 {
+  font-size: 4rem;
+}
+
+.heading-3 {
+  font-size: 6rem;
+}
+
+.facebook {
+  background-image: url(images/facebook.png);
+}
+
+.google {
+  background-image: url(images/google.png);
+}
+
+.apple {
+  background-image: url(images/apple.png);
+}
+
+;
+/*# sourceMappingURL=style.css.map */
